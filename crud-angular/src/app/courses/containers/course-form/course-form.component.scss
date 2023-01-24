@@ -17,3 +17,12 @@ mat-toolbar{
   width: 100%;
   min-width: 150px;
 }
+
+.actions-buttons {
+  box-align: center;
+  margin: 1em;
+}
+
+.actions-buttons button{
+  margin: 0 10px;
+}
